@@ -64,3 +64,6 @@ Finally, the user is prompted with the choice of restarting the program or not.
 * [xhlow](https://github.com/xhlow) - xhlow's repository helped with understanding the structure and details of certain functions.
 * [philribbens](https://github.com/philribbens) - philribben's repository also added to better understanding of the structure for this project.
 * [pandas docs](http://pandas.pydata.org/pandas-docs/stable/) - pandas documentation was immensely helpful in understanding the implemention of pandas methods used in this project.
+
+
+### Credits
