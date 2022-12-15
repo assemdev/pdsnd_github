@@ -1,19 +1,21 @@
 
 
 
-### Date created
-Include the date you created this project and README file.
-15/12/2022
 
-### Project Title
-Replace the Project Title
-bikeshare_2 
 
 ### Description
 Describe what your project is about and what it does
 
 ### Files used
-Include the files used
+data files : 
+
+* chicago.csv - Stored in the data folder, the chicago.csv file is the dataset containing all bikeshare information for the city of Chicago provided by Udacity.
+
+* new_york_city.csv - Dataset containing all bikeshare information for the city of New York provided by Udacity.
+
+* washington.csv - Dataset containing all bikeshare information for the city of Washington provided by Udacity. Note: This does not include the 'Gender' or 'Birth Year' data
+
+
 
 The program takes user input for the city (e.g. Chicago), month for which the user wants to view data (e.g. January; also includes an 'all' option), and day for which the user wants to view data (e.g. Monday; also includes an 'all' option).
 
