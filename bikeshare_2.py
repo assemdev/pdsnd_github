@@ -119,6 +119,7 @@ def user_stats(df):
 
 
 def main():
+    print("start while loop ")
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
@@ -132,6 +133,6 @@ def main():
         if restart.lower() != 'yes':
             break
 
-
+  print("end while loop")
 if __name__ == "__main__":
 	main()
