@@ -4,7 +4,8 @@
 
 
 ### Description
-Describe what your project is about and what it does
+This project focuses on pandas library usage and simple statistics methods to perform descriptive analysis on the bikeshare data from three major U.S. cities - Chicago, Washington, and New York City - to display information such as most popular days or most common stations.
+
 
 ### Files used
 data files : 
@@ -58,3 +59,11 @@ Finally, the user is prompted with the choice of restarting the program or not.
 * [time](https://docs.python.org/2/library/time.html) - One of the libraries used for this.
 
 
+# Acknowledgements
+
+* [xhlow](https://github.com/xhlow) - xhlow's repository helped with understanding the structure and details of certain functions.
+* [philribbens](https://github.com/philribbens) - philribben's repository also added to better understanding of the structure for this project.
+* [pandas docs](http://pandas.pydata.org/pandas-docs/stable/) - pandas documentation was immensely helpful in understanding the implemention of pandas methods used in this project.
+
+
+### Credits
